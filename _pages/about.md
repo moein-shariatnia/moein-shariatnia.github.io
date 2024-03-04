@@ -22,4 +22,4 @@ Working as a Medical Intern at the teaching hospitals of [TUMS](https://en.tums.
 
 ## Hobbies / Side Hustles
 I love writing blog posts; mostly on technical tutorials for developing deep learning models but also on explaining AI trends / technologies in medicine for a medical audience. I write technical tutorials on [Medium](https://medium.com/@moein.shariatnia) / [TowardsDataScience](https://medium.com/towards-data-science/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2) and I am also a paid contributing author at [The Yuan](https://www.the-yuan.com/author-235/Moein-Shariatnia.html) writing at the intersection of <u>AI</u>, <u>medicine</u>, and <u>entrepreneurship</u>. 
-I am a cinephile, passionately indulging in the captivating world of movies and movie critisism. I enjoy studying biographies, self-help books, and history. I enjoy Rock music and I'm teaching myself to play electric guitar recently.
+I am a cinephile, passionately indulging in the captivating world of movies and movie criticism. I enjoy studying biographies, self-help books, and history. I enjoy Rock music and I'm teaching myself to play electric guitar recently.
