@@ -24,7 +24,7 @@ author:
   avatar: "profile.png"
   name: "Moein Shariatnia"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "ML developer | AI researcher | Medical Intern"
   location: "Earth"
   employer: "Freelancer"
   uri: # URL
@@ -43,7 +43,7 @@ author:
   codepen: # Username
   dribbble: # Username
   github: "moein-shariatnia"
-  kaggle: # Username
+  kaggle: "moeinshariatnia" # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
@@ -58,7 +58,7 @@ author:
   lastfm: # Username
   linkedin: "moein-shariatnia" # Username
   mastodon: # URL
-  medium: "moein.shariatnia" # URL
+  medium: "https://medium.com/@moein.shariatnia" # URL
   pinterest: # Username
   soundcloud: # Username
   steam: # Username
