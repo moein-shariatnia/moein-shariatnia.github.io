@@ -19,7 +19,8 @@ I was recently invited to the [Delta Dialog Podcast](https://open.spotify.com/ep
 
 <br>
 
-If you're working in the same field and want to introduce youself, or in case you want to introduce a project for future collaborations, you can book a 30 min meeting [here](https://cal.com/moein-shariatnia-sl7hyc/30min).
+
+You can book a 30 min [Meeting](https://cal.com/moein-shariatnia-sl7hyc/30min), if you're working in the same field and want to introduce youself, or in case you want to introduce a project for future collaborations.
 
 I also maintain a Persian speaking <em>Telegarm</em> channel on AI and medicine which you can join [here](https://t.me/farhangemoein).
 <br><br><br><br><br>
