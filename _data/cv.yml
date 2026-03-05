@@ -2,96 +2,116 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: M. Moein Shariatnia
+    - name: Location
+      value: London, UK (Global Talent Visa / Royal Society Endorsement)
     - name: Languages
-      value: English, German
+      value: English (full professional proficiency), Persian (native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.D. (Medical Doctor)
+      institution: Tehran University of Medical Sciences (TUMS), Tehran, Iran
+      year: 2018 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Full scholarship (top 0.01% of national exam); GPA 18.26/20 (top 20%)
+        - "Final 2 years: clinical internship as general physician"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Researcher (Part-Time)
+      institution: Hospital for Special Surgery (HSS), New York, USA
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Started as sole ML developer; early results led to >$70k in competitive grants (AOSSM, ON Foundation, ISHA) and growth to a team of 3 engineers
+        - Designed bone age prediction model from hand and knee X-rays (~3-month MAE, >20% over prior SOTA); built landmark detection pipeline with <1% keypoint error
+        - Co-leading self-supervised foundation model for MSK imaging and MRI-to-CT translation via diffusion models; collaborated on trustworthy AI with Harvard researchers (Dr. Rajpurkar)
+
+    - title: Independent Research Collaborator
+      institution: Google DeepMind, Mayo Clinic, Stanford, RWTH Aachen
+      year: 2021 - present
       description:
-        - Description 1.
-        - Description 2.
+        - "DeepMind/UW: Large-scale distributed training (8x V100) on million-scale datasets; invented one-shot method with >10x compute savings. Papers at ICML 2022 and ICLR 2023"
+        - "RWTH Aachen/Stanford: Developed TransDeepLab, Swin-Transformer medical image segmentation (~200 citations, MICCAI)"
+        - "Mayo Clinic: Automated shoulder morphology measurement (JSES 2022); lead developer of CONFLARE (6k+ PyPI downloads); co-developed LatteReview multi-agent LLM framework"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Machine Learning Developer (Part-Time, Contract)
+      institution: Rocket AB, Stockholm, Sweden
+      year: 2023
       description:
+        - Built multimodal search pipeline (CLIP embeddings + classical NLP) for brand/logo conflict detection across 500k+ trademarks; FastAPI backend <150ms latency; Dockerized and deployed on Azure
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Machine Learning Developer (Part-Time)
+      institution: Aris Co., Tehran, Iran
+      year: 2021 - 2023
+      description:
+        - Led development of face-health CV application with personalised skincare recommendations; built end-to-end ML pipeline with 4 models optimised for CPU inference; deployed via Django REST + Ray Serve (<20ms latency)
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/moein-shariatnia/OpenAI-CLIP">Simple CLIP (PyTorch)</a>
+      year: 2021
+      description: From-scratch CLIP implementation for image-text retrieval; 700+ GitHub stars, cited at top ML venues
+    - title: <a href="https://github.com/Mayo-Radiology-Informatics-Lab/conflare">CONFLARE</a> & Radiology QA with RAG
+      year: 2023 - 2024
+      description: Conformal prediction framework for RAG with statistical coverage guarantees (6,000+ PyPI downloads); benchmarked LLM+RAG for radiology QA (RSNA Trainee Prize shortlist)
+    - title: <a href="https://github.com/PouriaRouzrokh/LatteReview">LatteReview</a>
+      year: 2025
+      description: Multi-agent LLM framework for automated systematic reviews; async batch processing, Pydantic validation, multi-provider support (250+ monthly PyPI downloads)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - ISHA Research Grant ($20,000)
+        - ON Education Grant ($28,000)
+        - Certificate of Merit, RSNA
+        - Selected Participant, M2L Summer School (Google DeepMind)
+    - year: 2024
       items:
-        - Max Planck Medal
+        - AOSSM Playmaker Grant ($25,000)
+        - Travel Grant + Registration Waiver, EEML Summer School (Google DeepMind)
+    - year: 2023
+      items:
+        - Shortlisted for Trainee Research Prize, RSNA
+    - year: 2022
+      items:
+        - 1st Place, Data Science Competition, Digikala
+        - 3rd Place, Code Cup, Quera
+    - year: 2021
+      items:
+        - Solo Bronze Medal, Shopee Competition, Kaggle
+    - year: 2020
+      items:
+        - Gold Grant, USERN PID Summer School, Zurich
+        - Solo Bronze Medal, Basic Sciences Olympiad
+    - year: 2018
+      items:
+        - Fully Funded MD Scholarship (39th out of >600,000 participants)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Professional Services
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Invited Reviewer: ICML/ICLR workshops + PLoS ONE"
+    - "Workshop Lecturer: 'Towards Trustworthy Automated LLMs', SIIM, Baltimore (2024)"
+    - "Workshop Lecturer: 'An Introduction to Multi Agent AI Systems in Radiology', RSNA, Chicago (2025)"
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: ML & Deep Learning
+      items:
+        - PyTorch, HuggingFace (Transformers, Diffusers), scikit-learn, OpenCV, self-supervised learning, transfer learning, distributed training (multi-GPU), uncertainty quantification
+    - title: Computer Vision
+      items:
+        - Classification, segmentation, keypoint detection, medical imaging (DICOM, NIfTI, MONAI), diffusion models, GANs, Vision Transformers, CLIP
+    - title: NLP & Generative AI
+      items:
+        - LLM fine-tuning, RAG, multi-agent systems, conformal prediction, prompt engineering
+    - title: Engineering & Cloud
+      items:
+        - Python, FastAPI, Django REST, Ray Serve, Docker, Git, Linux, GCP, AWS, Azure
