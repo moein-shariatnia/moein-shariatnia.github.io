@@ -38,12 +38,12 @@
   },
   "work": [
     {
-      "name": "Hospital for Special Surgery (HSS)",
+      "name": "AP Healthtect LLC",
       "position": "Machine Learning Researcher (Part-Time)",
       "url": "",
       "startDate": "2024-01-01",
       "endDate": "",
-      "summary": "Collaboration with Dr. Ayoosh Pareek's multidisciplinary team on AI for musculoskeletal imaging.",
+      "summary": "Collaboration with Dr. Ayoosh Pareek's multidisciplinary team on AI for musculoskeletal imaging at Hospital for Special Surgery (HSS).",
       "highlights": [
         "Started as sole ML developer; early results led to >$70k in competitive grants (AOSSM, ON Foundation, ISHA) and growth to a team of 3 engineers",
         "Designed bone age prediction model from hand and knee X-rays (~3-month MAE, >20% over prior SOTA); built landmark detection pipeline with <1% keypoint error; model being integrated into clinical workflows",
